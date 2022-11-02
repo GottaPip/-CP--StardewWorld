@@ -1,0 +1,19 @@
+{
+    "Name":"Stardew World",
+    "Author":"Kity",
+    "Version":"1.0.0",
+    "Description":"Exoanded map",
+    "UniqueID":"Kity.StardewWorld",
+    "UpdateKey":[
+        "github.com/GottaPip/-CP--StardewWorld"
+    ],
+    "ContentPackFor":{
+        "UniqueID":"Pathoschild.Contentpatcher"
+    }
+
+
+
+
+
+
+}

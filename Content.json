@@ -1,0 +1,90 @@
+{
+    "Format":"1.23.0",
+    "Changes":
+    [
+        {
+            "action":"EditData",
+            "target":"data/npcdispositions",
+            "fields":
+            {
+                "Jodi":
+                {
+                    "5":"datable",
+                    "11":"Alicia"
+                },
+                "Kent":
+                {
+                    "11":"Jhonathan"
+                },
+                "Lewis":
+                {
+                    "11":"MAYOR | Liam",
+                    "1":"polite",
+                    "7":"Marnie"
+                },
+                "Marnie":
+                {
+                    "5":"secret",
+                    "11":"Anne"
+                },
+                "wizard":
+                {
+                    "11":"Rasmodius",
+                    "5":"secret"
+                    
+                }
+            }
+            
+
+
+
+
+
+
+
+
+
+        },
+        {
+            "action":"editimage",
+            "target":"portraits/Jodi",
+            "fromfile":"Haleypor.png"
+        },
+        {
+            "action":"editimage",
+            "target":"characters/Jodi",
+            "fromfile":"Haley.png"
+        },
+        {
+            "action":"editimage",
+            "target":"portraits/Kent",
+            "fromfile":"Sampor.png"
+        },
+        {
+            "action":"editimage",
+            "target":"characters/Kent",
+            "fromfile":"Sam.png"
+        }
+        
+        
+        
+    ]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
