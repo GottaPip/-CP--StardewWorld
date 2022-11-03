@@ -67,17 +67,17 @@
         }
         
         
-        
+    
+    ],
+    "Change":
+    [
+        {
+            "action":"Load",
+            "target":"Maps/FarmCave",
+            "FromFile":"Assets/Maps/NewFarmCave.tmx"
+        }
     ]
-
-
-
-
-
-
-
-
-
+   
 
 
 
